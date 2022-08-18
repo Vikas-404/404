@@ -41,7 +41,7 @@ p {
 /* Hero Section  */
 
 #hero {
-    background-image: url(/img/PXL_20220722_120441483.jpg);
+    background-image: url(img/PXL_20220722_120441483.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -268,7 +268,7 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(/img/Adobe_Premiere_Pro_ZtcBc7ghSQ.png);
+    background-image: url(img/Adobe_Premiere_Pro_ZtcBc7ghSQ.png);
     background-size: cover;
     background-position-y: center;
     margin: 10px 5%;
@@ -298,7 +298,7 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(/img/GTA5_mb1q0oz1Me.jpg);
+    background-image: url(img/GTA5_mb1q0oz1Me.jpg);
     background-size: cover;
     background-position-y: center;
     margin: 10px 5%;
